@@ -37,3 +37,16 @@ price=isLeader==true ?
         price/2 : 0 : 
     price +100;
 console.log(price);
+
+
+
+// logical not operator
+
+// const isPassed = false;
+
+// if ( isPassed){
+//     console.log('porba');
+// }
+// else{
+//     console.log('Biya');
+// }
